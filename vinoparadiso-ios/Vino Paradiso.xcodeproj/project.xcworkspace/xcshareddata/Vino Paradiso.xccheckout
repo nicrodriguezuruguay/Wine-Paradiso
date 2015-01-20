@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>16B2D98A-4DC2-4F30-8CE8-CBBA334F0DBF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Vino Paradiso</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>085F7A86-1FED-46B3-85D8-084BF2C98F21</key>
+		<string>ssh://bitbucket.org/ruben_lightonapps/vinoparadiso-android.git</string>
+		<key>1FB8B3EB-6C91-4A3D-B4D2-CBF4F92382AB</key>
+		<string>https://bitbucket.org/ruben_lightonapps/vinoparadiso-ios.git</string>
+		<key>C1DEABA73FD7510973CEF34C53A1BDB120B15C62</key>
+		<string>https://bitbucket.org/ruben_lightonapps/vinoparadiso-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>vinoparadiso-ios/Vino Paradiso.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>085F7A86-1FED-46B3-85D8-084BF2C98F21</key>
+		<string>../../../../Documents/workspace/vinoParadiso</string>
+		<key>1FB8B3EB-6C91-4A3D-B4D2-CBF4F92382AB</key>
+		<string>../../../../vinoparadiso-ios</string>
+		<key>C1DEABA73FD7510973CEF34C53A1BDB120B15C62</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/ruben_lightonapps/vinoparadiso-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C1DEABA73FD7510973CEF34C53A1BDB120B15C62</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>085F7A86-1FED-46B3-85D8-084BF2C98F21</string>
+			<key>IDESourceControlWCCName</key>
+			<string>vinoParadiso</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1FB8B3EB-6C91-4A3D-B4D2-CBF4F92382AB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>vinoparadiso-ios</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C1DEABA73FD7510973CEF34C53A1BDB120B15C62</string>
+			<key>IDESourceControlWCCName</key>
+			<string>vinos</string>
+		</dict>
+	</array>
+</dict>
+</plist>
